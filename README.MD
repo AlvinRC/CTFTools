@@ -15,11 +15,11 @@ Executables:
 - Hash Cat:
   - Similar to John: password cracker
 
-Python Libraries:
-- pwntools (pwn)
+Python Libraries:(just yarn add libname)
+- pwntools (pwn): yarn add pwn
   - ELF()
   - cyclic()
-  -  
+
 
 Websites:
 - Cipher Solvers/ Decoders:
